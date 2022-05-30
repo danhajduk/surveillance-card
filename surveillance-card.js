@@ -265,6 +265,7 @@ class SurveillanceCard extends LitElement {
         align-items: center;
         justify-content: center;
         overflow: hidden;
+        top: 10px;
       }
 
       .mainImage > img {
